@@ -1,0 +1,18 @@
+reflections abot version control:
+1) Cómo puede un sistema de versiones hacerme un programador más eficiente?
+*ahorrar tiempo:
+-habilidad para volver a ver versiones anteriores en caso de un error
+
+2) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+- Es mejor asumir la responsabilidad de cuando hacer el commit, porque de otr amanera los commits, pueden no tener mucho sentido, pues guardan sólo accidentalmente. Por otra parte si uno no hace el commit responsablemente puede ser una alternativa contar con los cambios que se guardaron automáticamente, pero yo no estoy de acuerdo con eso. Quiero ser responsable.
+
+3)Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Porque es importante en coding tener tener la relacion de los archivos modificados
+
+4)How can you use the commands git log and git diff to view the history of files?
+ Sí, se puede usar. Con git log se muestran los ultimos cambios al repositorio
+ con git diff se pueden comparar los cambios entre dos commits
+5)How might using version control make you more confident to make changes that could break something?
+Porque siempre puede uno hacer checkout de una version anterior, así que no hay que tener miedo de experimentar. La version anterior está segura.
+6)Now that you have your workspace set up, what do you want to try using Git for?
+uh! para desarrollar proyectos nuevos que pueda mostrar y conseguir trabajo arrechisimos x0 !
