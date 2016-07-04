@@ -1,2 +1,10 @@
-When would you want to use a remote repository rather than keeping all your work local?
+1) When would you want to use a remote repository rather than keeping all your work local?
 Having a remote is recommendable to keep the data secure, in case something happens with the local storage. And for callaborate with other persons, having a remote is a fundamenta step to take
+2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+If you can review the changes in the remote repository, I think is better to choose when to pull. I preffer having the reponsibility to decide when to do it.
+
+
+
+3) about push -ing manually
+It always best to know what you are doing, instead to leaving the responsibility to pother thing.
+I preffer to decide when I want to send the data to the remote location. Shortening the loop of syncronization should cover me from loosing data in case something happens with the local repository. That is, I can push the changes that I want offen enough, so I secure the data and still decide what to send to the remote location.
