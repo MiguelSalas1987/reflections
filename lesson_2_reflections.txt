@@ -1,3 +1,14 @@
 1) How is the staging area different from the working directory and the repository? What value do you think it offers?
-	The staging area exist so you can decide what to put in your commit insted of just sending all de working director� inthe repository.
+	The staging area exist so you can decide what to put in your commit insted of just sending all de working director� inthe repository.
 	It provides a way to saparate logical changes in different commits. The Staging area is awesome! =)
+2) How can you use the staging area to make sure you have one commit per logical change?
+Puede ayudar porque uno puede decidir qué irá al commit usando la staging area, esto sólo metiendo en la staging area lo que está relacionado lógicamente. Y posteriormente hacer commit de eso.
+3)What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Cuando se quiere crear una nueva feature sin afectar 'master' s epuede crear una nueva rama. Así se tiene libertad de experimentar sin afectar la seguridad de 'master'. Se puede pensar que master  es la versión  de 'producción' en la que todo funciona bien. Se pueden crear nuevas ramas cuando se quiere avanzar  desarrollando una nueva característica, y cuando esté lista, puede incorporarse a 'master'. Branches pueden ser útiles tambien para compartementalize, cada vez que se cambia de contexto, se puede crear o cambiar de rama, para tener la mente dedicada a lo que hay que resolver.
+4) How do the diagrams help you visualize the branch structure?
+La representación intuitiva siempre es más directa que la representación lógica, por su naturaleza.
+Así que representar los commits de modo gráfico siempre será más claro y podrá dar una representación más clara y más general de un modo más rápido.
+5) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When one does merge a branch into another, the result and order of the commits of the log command does not represent always the parentship relationship, for that it is useful to get the graphic representation of the command git log --graph --online, beacuase its represents in an intuitive way the parent relationship of the commits. Intuitive representations are alwys a more direct way to make undertandable complex relationships, it offer by the way a representation that can englobe a panorama.
+6)What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+I think that as long the merging process can be automatic, we should preffer to do it so. But we have to admit that many times it can be automatic, machines can't decide. As personal preference, I will avoid to be in circunstances that it is necessary to do the merge manually.
