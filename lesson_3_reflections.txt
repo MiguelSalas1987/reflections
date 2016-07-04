@@ -8,3 +8,8 @@ If you can review the changes in the remote repository, I think is better to cho
 3) about push -ing manually
 It always best to know what you are doing, instead to leaving the responsibility to pother thing.
 I preffer to decide when I want to send the data to the remote location. Shortening the loop of syncronization should cover me from loosing data in case something happens with the local repository. That is, I can push the changes that I want offen enough, so I secure the data and still decide what to send to the remote location.
+
+4)Describe the differences between forks, clones, and branches. When would you use one instead of another?
+-Fork: is posible only in github, is when you want to clone a repository directly in github, and let the people know  that the code source is another repository.
+-Clone: when you want to copy a repository, from local to remote or local to local. It can be used to take data from a repository to local. It has multiple uses.
+-Branch: making a branch it can be useful to experiment inside a repository, to try to implement a new feature without risking to change the master branch. It can be used to callaborate, because every developer can create a new branch to work on his or her own and when the development is ready and tested you can pull the new branch into the master branch.
