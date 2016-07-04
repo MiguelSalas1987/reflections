@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+Having a remote is recommendable to keep the data secure, in case something happens with the local storage. And for callaborate with other persons, having a remote is a fundamenta step to take
