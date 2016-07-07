@@ -19,3 +19,6 @@ I preffer to decide when I want to send the data to the remote location. Shorten
 
 6)How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It is much easier to collaborate with git, I have worked with SVN before,but I feel git makes me more productive, it provides a framework and and  a rhythm, it like a work flow. I feel that  working towards a commit, give a sure end to work, and provides a way to feel sure that you are advancing towards your goals, besides you are sure that you can experiment a can be sure that if you make a mistake all the prevous versions support you. Collaborating with this mindset is much more easy.
+ 7)When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+ I think making a different different branch can be useful when we are collaborating with other people because every person can makes hes changes in a different branch without putting the master branch in  danger, and whenever there is an agreement that the changes are safe those changes can be merged in the master branch.
