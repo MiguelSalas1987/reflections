@@ -16,3 +16,6 @@ I preffer to decide when I want to send the data to the remote location. Shorten
 
 5) What is the benefit of having a copy of the last known state of the remote stored locally?
   It's a way to avoid future conflicts, because if you work on something that is up to date chaces are that you wont have so many conflicts as is you work with some code that is out of date
+
+6)How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It is much easier to collaborate with git, I have worked with SVN before,but I feel git makes me more productive, it provides a framework and and  a rhythm, it like a work flow. I feel that  working towards a commit, give a sure end to work, and provides a way to feel sure that you are advancing towards your goals, besides you are sure that you can experiment a can be sure that if you make a mistake all the prevous versions support you. Collaborating with this mindset is much more easy.
